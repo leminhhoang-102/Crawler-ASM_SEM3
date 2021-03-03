@@ -20,11 +20,10 @@ namespace ReadNewsWebClient
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-3.5.0.min.js"));
 
-   
-
             bundles.Add(new StyleBundle("~/bundles/app_styles").Include(
                       "~/Content/Css/animate.css", "~/Content/Css/owl.carousel.css",
-                      "~/Content/Css/owl.theme.default.css", "~/Content/Css/style_1.css"));
+                      "~/Content/Css/owl.theme.default.css", "~/Content/Css/style_1.css",
+                      "~/Content/Css/indexArticle.css"));
         }
     }
 }
