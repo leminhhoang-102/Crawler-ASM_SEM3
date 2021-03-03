@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ReadNewsWebClient",
+    "\\ReadNewsWebClient\\Models",
+    "\\ReadNewsWebClient\\Views",
+    "\\ReadNewsWebClient\\Views\\Shared"
+  ],
+  "SelectedNode": "\\ReadNewsWebClient\\Views\\Shared\\Error.cshtml",
+  "PreviewInSolutionExplorer": false
+}
